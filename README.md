@@ -1,3 +1,28 @@
+Requirements 
+
+6 month forecast for MTL ( Mean Tide Level )
+
+![image](https://github.com/user-attachments/assets/0166b1e9-3449-448f-bbc9-27e07fae6589)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Surfline Dashboard
 
 ## **Architecture**
