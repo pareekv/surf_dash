@@ -1,17 +1,16 @@
 Learning project : 
 
-Requirements 
+ 
+Problem statement : 4 year historical data study for water level at the sea. Study of Datums 
+Solution : Created Tableau dashboard with data from https://tidesandcurrents.noaa.gov/ published to Tableau Public
 
-4 year historical data study for water level at the sea.
-Study of Datums
-
-Predict - 6 month forecast for MTL ( Mean Tide Level )
+Problem statement2 : Scrap data from web using python 
+Solution : Used Pandas, Pyspark, JupyterNotebook
 
 
-Tools Used
-Jupyter Notebook
-Pyspark
-Pandas
+Problem statement3 : Predict 6 month forecast for MTL ( Mean Tide Level )
+Solution : TBD 
+
 
 ![image](https://github.com/user-attachments/assets/0166b1e9-3449-448f-bbc9-27e07fae6589)
 
